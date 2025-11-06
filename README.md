@@ -203,4 +203,3 @@ A **modern, responsive** web application for booking doctor appointments built w
 
 ---
 
-Would you like me to add a **top banner image preview** and **live demo / GitHub badges** section (for example, “🌐 Live Demo” and “📂 GitHub Repo” buttons) at the top for a more professional GitHub presentation?
